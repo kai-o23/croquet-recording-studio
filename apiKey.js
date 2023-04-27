@@ -1,5 +1,5 @@
-const apiKey = "paste your apiKey from croquet.io/keys";
-const appId = "type your own appId such as com.example.david.mymicroverse";
+const apiKey = "1BejEN7LCELnPecvPlbHaGg49GeN5MKnAcex8co1y";
+const appId = "com.croquet.kaioldman.recordingstudio";
 export default {apiKey, appId};
 
 // For development on local computer and local network, use a development key
